@@ -5,7 +5,7 @@ Tensorflow implementation of skip gram word embedding model for Bengali Language
 ![Folder](data/tmp/tf_dir_st.png)
 
 ## TF-Graph
-![Graph](data/tmp/tf_word2vec_gr.png)
+<!-- ![Graph](data/tmp/tf_word2vec_gr.png) -->
 ```python
 graph = tf.Graph()
 with graph.as_default():
@@ -36,7 +36,7 @@ with graph.as_default():
 
 
 ## TF-Session
-![Session](data/tmp/tf-word2vec_sess.png)
+<!-- ![Session](data/tmp/tf-word2vec_sess.png) -->
 ```python
 with tf.Session(graph=graph) as session:
     init.run()
