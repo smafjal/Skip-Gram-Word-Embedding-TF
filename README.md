@@ -2,18 +2,18 @@
 Tensorflow implementation of skip gram word embedding model for Bengali Language and can be ported on other tensorflow model
 
 ## Folder Structure
-![Folder](https://github.com/smafjal/Skip-Gram-Word-Embedding-TF/tree/master/data/tmp/tf_dir_st.png)
+![Folder](data/tmp/tf_dir_st.png)
 
 
 
 
 ## TF-Graph
-![Graph](https://github.com/smafjal/Skip-Gram-Word-Embedding-TF/tree/master/data/tmp/tf_word2vec_gr.png)
+![Graph](data/tmp/tf_word2vec_gr.png)
 
 
 
 ## TF-Session
-![Session](https://github.com/smafjal/Skip-Gram-Word-Embedding-TF/tree/master/data/tmp/tf-word2vec_sess.png)
+![Session](data/tmp/tf-word2vec_sess.png)
 
 
 ## RUN
